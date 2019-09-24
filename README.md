@@ -12,9 +12,7 @@
 
 Abstract keywords are represented in a semantic mind map format, so the relationship between keywords can be ambiguous. Please just focus on **KEYWORD in square box**, as things to study.
 - The work of containing a plethora of keywords and knowledge within just an image has been challenging. Thus, please note that this roadmap is one of the suggestions or ideas.
-- You are eligible for using the material at your own will including commercial purpose but **expected to leave a reference.**
-
-can use the material commercially or freely, but please leave the source.
+- You are eligible for using the material at your own will including commercial purpose but **highly expected to leave a reference.**
 
 #### Curriculum
 
