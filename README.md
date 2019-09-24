@@ -1,7 +1,6 @@
 ## nlp-roadmap
 ![](img/title.png)
 <p align="center"><img width="333" src="img/main.png" /></p>
-
 `nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students who are wondering what to study. It's contains from basic probability and statistics to SOTA NLP Models.
 
 
@@ -50,7 +49,7 @@ Same with Contribution Guid of [kamranahmedse/developer-roadmap](https://github.
 
 [2] (한국어) 텍스트 마이닝을 위한 공부거리들, [lovit](https://github.com/lovit)/[textmining-tutorial](https://github.com/lovit/textmining-tutorial)
 
-[3] *Bisop(2006). Pattern Recognition and Machine Learning*
+[3] *Christopher Bishop(2006). Pattern Recognition and Machine Learning*
 
 [4] *Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent Trends in Deep Learning Based Natural Language Processing. arXiv preprint arXiv:1708.02709.*
 
