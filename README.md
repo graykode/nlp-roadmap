@@ -70,10 +70,3 @@ Copyright &copy; 2019 [Tae-Hwan Jung](http://www.github.com/graykode).
 
 - Tae Hwan Jung [@graykode](https://github.com/graykode), Kyung Hee Univ CE(Undergraduate).
 - Author Email : [nlkey2022@gmail.com](mailto:nlkey2022@gmail.com)
-
-
-
-## Author
-
-- Tae Hwan Jung [@graykode](https://github.com/graykode), Kyung Hee Univ CE(Undergraduate).
-- Author Email : [nlkey2022@gmail.com](mailto:nlkey2022@gmail.com)
