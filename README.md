@@ -3,7 +3,7 @@
 <p align="center"><img width="333" src="img/main.png" /></p>
 
 
-`nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students those who have interest in learning NLP models. The roadmap covers the materials from basic probability/statistics to SOTA NLP models.
+`nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students those who have interest in learning Natural Language Processing. The roadmap covers the materials from basic probability/statistics to SOTA NLP models.
 
 
 #### Caution!
