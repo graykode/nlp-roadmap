@@ -10,7 +10,7 @@
 
 - The relationship among keywords could be interpreted in ambiguous ways since they are represented in the format of a semantic mind-map. Please just focus on **KEYWORD in square box**, and deem them as the essential parts to learn.
 - The work of containing a plethora of keywords and knowledge within just an image has been challenging. Thus, please note that this roadmap is one of the suggestions or ideas.
-- You are eligible for using the material at your own will including commercial purpose but **highly expected to leave a reference.**
+- You are eligible for using the material of your own free will including commercial purpose but **highly expected to leave a reference.**
 
 #### Curriculum
 
