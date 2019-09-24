@@ -1,6 +1,7 @@
 ## nlp-roadmap
 ![](img/title.png)
 <p align="center"><img width="333" src="img/main.png" /></p>
+
 `nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students who are wondering what to study. It's contains from basic probability and statistics to SOTA NLP Models.
 
 
@@ -12,13 +13,13 @@
 
 #### Curriculum
 
-1. Probability and Statistics
+1. [Probability and Statistics](https://github.com/graykode/nlp-roadmap#probability--statistics)
 
-2. Machine Learning
+2. [Machine Learning](https://github.com/graykode/nlp-roadmap#machine-learning)
 
-3. Text Mining
+3. [Text Mining](https://github.com/graykode/nlp-roadmap#text-mining)
 
-4. Natural Language Processing
+4. [Natural Language Processing](https://github.com/graykode/nlp-roadmap#natural-language-processing)
 
     
 
