@@ -3,14 +3,18 @@
 <p align="center"><img width="333" src="img/main.png" /></p>
 
 
-`nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students who are wondering what to study. It's contains from basic probability and statistics to SOTA NLP Models.
+`nlp-roadmap` is `Natural Language Processing` **ROADMAP(Mind Map)** and **KEYWORD** for students those who have interest in learning NLP models. The roadmap covers the materials from basic probability/statistics to SOTA NLP models.
 
 
 #### Caution!
 
-- Abstract keywords are represented in a semantic mind map format, so the relationship between keywords can be ambiguous. Please just focus on **KEYWORD in square box**, as things to study.
-- Also, it was difficult to contain all the keywords of knowledge in one image. So remember this roadmap is just the tip of the iceberg.
-- You can use the material commercially or freely, but please leave the source.
+- The relationship among keywords could be interpreted in ambiguous ways since they are represented in the format of a semantic mind-map.
+
+Abstract keywords are represented in a semantic mind map format, so the relationship between keywords can be ambiguous. Please just focus on **KEYWORD in square box**, as things to study.
+- The work of containing a plethora of keywords and knowledge within just an image has been challenging. Thus, please note that this roadmap is one of the suggestions or ideas.
+- You are eligible for using the material at your own will including commercial purpose but **expected to leave a reference.**
+
+can use the material commercially or freely, but please leave the source.
 
 #### Curriculum
 
@@ -38,10 +42,7 @@
 
 
 ## Contribution
-
-Awalys Welcome to Contribution, such as typo, different perspective.
-
-Same with Contribution Guid of [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md)
+Opens for everybody to contribute to the repository, including typo or different perspectives on the materials, under the identical contribution guide of [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md)
 
 
 
@@ -74,3 +75,9 @@ Copyright &copy; 2019 [Tae-Hwan Jung](http://www.github.com/graykode).
 - Tae Hwan Jung [@graykode](https://github.com/graykode), Kyung Hee Univ CE(Undergraduate).
 - Author Email : [nlkey2022@gmail.com](mailto:nlkey2022@gmail.com)
 
+
+
+## Author
+
+- Tae Hwan Jung [@graykode](https://github.com/graykode), Kyung Hee Univ CE(Undergraduate).
+- Author Email : [nlkey2022@gmail.com](mailto:nlkey2022@gmail.com)
