@@ -8,9 +8,7 @@
 
 #### Caution!
 
-- The relationship among keywords could be interpreted in ambiguous ways since they are represented in the format of a semantic mind-map.
-
-Abstract keywords are represented in a semantic mind map format, so the relationship between keywords can be ambiguous. Please just focus on **KEYWORD in square box**, as things to study.
+- The relationship among keywords could be interpreted in ambiguous ways since they are represented in the format of a semantic mind-map. Please just focus on **KEYWORD in square box**, and deem them as the essential parts to learn.
 - The work of containing a plethora of keywords and knowledge within just an image has been challenging. Thus, please note that this roadmap is one of the suggestions or ideas.
 - You are eligible for using the material at your own will including commercial purpose but **highly expected to leave a reference.**
 
