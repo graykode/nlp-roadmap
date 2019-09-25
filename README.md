@@ -52,6 +52,8 @@ Opens for everybody to contribute to the repository, including typo or different
 
 [4] *Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent Trends in Deep Learning Based Natural Language Processing. arXiv preprint arXiv:1708.02709.*
 
+[5] curated collection of papers for the nlp practitioner, [mihail911](https://github.com/mihail911)/[nlp-library](https://github.com/mihail911/nlp-library)
+
 **Acknowledgement** to [ratsgo](https://github.com/ratsgo), [lovit](https://github.com/lovit) for creating great posts and lectures.
 
 
