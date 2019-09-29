@@ -38,7 +38,7 @@
 
 
 ## Contribution
-Opens for everybody to contribute to the repository, including typo or different perspectives on the materials. I welcome your contribution under the identical contribution guide of [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md).
+Everyone can contribute to the repository. Contributions can range fixing typos to giving different perspectives on the materials. I welcome your contribution under the identical contribution guide of [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md).
 
 
 
